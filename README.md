@@ -4,3 +4,4 @@
 # Старт
 - Установите зависимости: pip install -r requirements.txt / pip3 install -r requirements.txt
 - Запустите Jupyter Notebook: jupyter notebook
+- Или просто откройте файл с отчетом здесь
